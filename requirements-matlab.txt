@@ -1,0 +1,2 @@
+# Optional: MATLAB engine for Python (requires a local MATLAB installation)
+matlabengine==23.2.1

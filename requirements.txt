@@ -1,0 +1,7 @@
+# FMU support
+fmpy>=1.0
+
+# For graphical representation / network utilities
+networkx
+matplotlib
+
