@@ -71,10 +71,6 @@ Detailed usage examples and tutorials will be added as the implementation mature
     - `PythonAPI.py` – Python model wrapping.
   - `exeMgn.py`, `exeAreas.py`, `Service.py`, `GlOb.py` – execution and service management utilities.
 
-## License
-
-This project is licensed under the MIT License – see the `LICENSE` file for details.
-
 ## Acknowledgements
 
-This implementation is part of the OrchTwin project on digital twin orchestration, model‑driven engineering, and systems engineering.
+
