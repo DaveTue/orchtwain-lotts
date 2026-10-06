@@ -1,5 +1,5 @@
 # FMU support
-fmpy>=1.0
+fmpy
 
 # For graphical representation / network utilities
 networkx
